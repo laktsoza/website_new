@@ -1,0 +1,218 @@
+html {
+    background-color: rgb(231, 231, 231);
+}
+header {
+    text-align: center;
+}
+
+.my-blog {
+    margin-top: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.wellcome {
+    margin-top: 15px;
+    margin-bottom: 40px;
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 11px;
+}
+
+.back-black {
+    font-family: sans-serif;
+    color: white;    
+    background-color: black;
+    padding: 1px 5px;
+}
+.back-black1 {
+    font-family: sans-serif;
+    color: white;    
+    background-color: black;
+    padding: 2px 5px;
+    border-radius: 50%;
+}
+.back-black3 {
+    font-family: sans-serif;
+    font-size: 10px;
+    color: white;    
+    background-color: black;
+    padding: 1px 5px;
+    margin-top: 5px;
+}
+.cities {
+    font-family: sans-serif;
+    font-size: 9px;
+    color: black;    
+    background-color: rgb(230, 227, 227);
+    padding: 1px 3px;
+}
+
+.container {
+    position: relative;
+    padding: 0;
+    margin: auto auto;
+    height: 700px;
+    width: 836px;
+    background-color:  rgb(231, 231, 231);
+    overflow: hidden;
+}
+
+.left-top {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    padding: 0;
+    display: inline-block;
+    height: 333px;
+    width: 555px;
+    background-color: white;
+}
+.left-bottom {
+    position: relative;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin-top: 15px;
+    padding: 0;
+    display: inline-block;
+    height: 333px;
+    width: 555px;
+    background-color: white;
+}
+.right-top {
+    position: absolute;
+    vertical-align: top;
+    margin: 0 0 0 15px;
+    padding: 0;
+    display: inline-block;
+    height: 660px;
+    width: 266px;
+    background-color:  rgb(231, 231, 231);
+}
+.top {
+    background-color: white;
+    height: 260px;
+}
+.middle {
+    position: relative;
+    background-color:  rgb(231, 231, 231);
+    height: 230px;
+    margin-top: 20px;
+}
+.popular {
+    position: relative;
+    margin-top: 0;
+    margin-bottom: 0;
+    height: 44px;
+    background-color:  rgb(231, 231, 231);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+
+}
+.popular p {
+    opacity: 0.8;
+    font-size: 14px;
+    padding: 12px 10px;
+}
+
+.whites {
+    position: relative;
+    background-color: white;
+    height: 44px;
+    border-top: solid 1px  rgb(231, 231, 231);
+}
+.whites img {
+    width: 35px;
+    margin: 5px 10px;
+}
+.p2 {
+    position: absolute;
+    margin-top: 8px;
+    font-size: 13px;
+    vertical-align: top;
+    padding: 0;
+    display: inline-block;
+}
+.p3 {
+    position: absolute;
+    font-size: 10px;
+    display: inline-block;
+    position: absolute;
+    margin-top: 26px;
+    margin-left: -10px;
+}
+.bottom {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    height: 122px;
+    background-color:  rgb(231, 231, 231);
+    margin-top: 30px;
+}
+.bottom-end {
+    height: 44px;
+    background-color:  rgb(231, 231, 231);
+}
+
+.bottom-end p {
+    opacity: 0.8;
+    font-size: 14px;
+    padding: 12px 10px;
+}
+.spans {
+    padding-left: 10px;
+    padding-top: 8px;
+    background-color: white;
+    height: 68px;
+}
+.woods {
+    width: 100%;
+}
+.avatar {
+    width: 100%;
+}
+
+.title {
+    font-size: 13px;
+    font-weight: bold;
+    margin: 0;
+    padding: 10px 10px;
+    font-family: sans-serif;
+}
+
+.date {
+    margin: 0;
+    font-size: 11px;
+    padding: 0 10px;
+    font-family: sans-serif;
+}
+
+P {
+    font-family: sans-serif;
+    font-size: 9.5px;
+    padding: 0 10px;
+    margin-bottom: 14px;
+}
+.p1 {
+    margin: 0;
+    padding: 0 10px;
+}
+.button {
+    border: solid 0.5px  rgb(223, 223, 223);
+    border-radius: 2px;
+    display: inline-block;
+    margin-top: 5px;
+    font-size: 9px;
+    font-weight: bold;
+    padding: 10px 12px;
+    margin-left: 10px;
+    background-color: white;
+}
+button:hover {
+    background-color:  rgb(240, 240, 240);
+}
+.comments {
+    font-family: sans-serif;
+    position: relative;
+    display: inline-block;
+    margin-left: 360px;
+}
+
+.blur {
+    opacity: 0.7;
+}
